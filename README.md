@@ -10,7 +10,7 @@ I'm a software engineer in London. I build software and write about software.
 
 ## Technologies
 
-The following is a list of technologies I specialize in and utilize. Additional projects and contributions can be found on my [GitHub](https://github.com/sdiehl).
+The following is a list of technologies I specialize in and utilize.
 
 **⚙️ Compilers**  
 MLIR, LLVM, CUDA, Triton, Tree-sitter, Cranelift, WASM, Clang.
