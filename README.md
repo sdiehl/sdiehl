@@ -16,7 +16,7 @@ The following is a list of technologies I specialize in and utilize. Additional 
 MLIR, LLVM, CUDA, Triton, Tree-sitter, Cranelift, WASM, Clang.
 
 **🤖 Machine Learning**  
-Transformers, PyTorch, Scikit-Learn, Weights & Bias, Deepspeed, TensorRT, SGLang, ONNX.
+Transformers, PyTorch, Scikit-Learn, Deepspeed, TensorRT, vLLM, CUTLASS, ONNX.
 
 **☁️ Cloud**  
 AWS, GCP, Kubernetes, Kubeflow, Docker, Terraform, Github Actions, CDK.
