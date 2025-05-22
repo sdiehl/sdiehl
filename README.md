@@ -18,6 +18,9 @@ MLIR, LLVM, CUDA, Triton, Tree-sitter, Cranelift, WASM, Clang.
 **🤖 Machine Learning**  
 Transformers, PyTorch, Scikit-Learn, Deepspeed, TensorRT, vLLM, CUTLASS, ONNX.
 
+**🧱 Data Engineering**
+Fivetran, Snowflake, Redshift, dbt, Kafka, Spark, Dagster.
+
 **☁️ Cloud**  
 AWS, GCP, Kubernetes, Kubeflow, Docker, Terraform, Github Actions, CDK.
 
