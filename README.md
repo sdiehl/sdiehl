@@ -12,20 +12,5 @@ I'm a software engineer in London. I build software and write about software.
 
 The following is a list of technologies I specialize in and utilize.
 
-**⚙️ Compilers**  
-MLIR, LLVM, CUDA, Triton, Tree-sitter, Cranelift, WASM, Clang.
-
-**🤖 Machine Learning**  
-Transformers, PyTorch, Scikit-Learn, Deepspeed, TensorRT, vLLM, CUTLASS, ONNX.
-
-**🧱 Data Engineering**  
-Fivetran, Snowflake, Redshift, dbt, Kafka, Spark, Dagster.
-
-**☁️ Cloud**  
-AWS, GCP, Kubernetes, Kubeflow, Docker, Terraform, Github Actions, CDK.
-
-**📊 Data Science**  
-Pandas, Numpy, Matplotlib, Seaborn
-
 **🏗️ Languages**  
 Python, TypeScript, Rust, C++, Haskell, OCaml, Lean
