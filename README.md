@@ -20,7 +20,7 @@ I write about math and programming on my [blog](https://www.stephendiehl.com). S
 - [Exotic Programming Ideas](https://www.stephendiehl.com/posts/exotic_01/) (2021) - Exploring unusual programming language concepts.
 - [My Quirky Nerd Humour](https://www.stephendiehl.com/tags/humor/) (2020) - Satirical articles about programming culture.
 - [Write You a Haskell](https://github.com/sdiehl/write-you-a-haskell) (2015) - Building a Haskell compiler from scratch.
-- [What I Wish I Knew When Learning Haskell](https://sdiehl.github.io/wiwinwlh/) (2014) - A comprehensive guide to Haskell.
+- [What I Wish I Knew When Learning Haskell](https://sdiehl.github.io/wiwinwlh/) (2009) - A comprehensive guide to Haskell.
 
 ## Technologies
 
