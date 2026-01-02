@@ -4,8 +4,8 @@ I'm a software engineer in London. I write about math and programming on my [epo
 
 - [Zero to QED](https://github.com/sdiehl/zero-to-qed) (2025) - Interactive theorem proving in Lean 4.
 - [Typechecker Zoo](https://sdiehl.github.io/typechecker-zoo/) (2025) - A collection of type system implementations in Rust.
-- [Compiler Crates](https://sdiehl.github.io/compiler-crates/) (2025) - Building compilers in Rust from first principles.
-- [Introduction to MLIR](https://www.stephendiehl.com/posts/mlir_introduction/) (2024) - A guide to the MLIR compiler infrastructure.
+- [Compiler Crates](https://sdiehl.github.io/compiler-crates/) (2025) - Examples of crates for building compilers in Rust.
+- [Introduction to MLIR](https://www.stephendiehl.com/posts/mlir_introduction/) (2024) - A short introduction to building compilers on the MLIR infrastructure.
 - [Tiny GraphRAG](https://www.stephendiehl.com/posts/graphrag1/) (2024) - Building a minimal graph-based RAG system.
 - [Exotic Programming Ideas](https://www.stephendiehl.com/posts/exotic_01/) (2021) - Exploring unusual programming language concepts.
 - [Quirky Nerd Humour](https://www.stephendiehl.com/tags/humor/) (2020) - Satirical articles about programming culture.
