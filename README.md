@@ -2,6 +2,8 @@
 
 I'm a software engineer in London. I write about math and programming on my [eponymously named blog](https://www.stephendiehl.com).
 
+I work on formally verified combinatorial auctions and market infrastructure at [OneChronos](https://onechronos.com/). (We're hiring)
+
 - [Zero to QED](https://github.com/sdiehl/zero-to-qed) (2025) - Interactive theorem proving in Lean 4.
 - [Typechecker Zoo](https://sdiehl.github.io/typechecker-zoo/) (2025) - A collection of type system implementations in Rust.
 - [Compiler Crates](https://sdiehl.github.io/compiler-crates/) (2025) - Examples of crates for building compilers in Rust.
