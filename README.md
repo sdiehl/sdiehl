@@ -4,15 +4,6 @@ I'm a software engineer in London. I write about math and programming on my [epo
 
 I work on formally verified combinatorial auctions and market infrastructure at [OneChronos](https://onechronos.com/). (We're hiring)
 
-- [Zero to QED](https://github.com/sdiehl/zero-to-qed) (2025) - Interactive theorem proving in Lean 4.
-- [Typechecker Zoo](https://sdiehl.github.io/typechecker-zoo/) (2025) - A collection of type system implementations in Rust.
-- [Compiler Crates](https://sdiehl.github.io/compiler-crates/) (2025) - Examples of crates for building compilers in Rust.
-- [Introduction to MLIR](https://www.stephendiehl.com/posts/mlir_introduction/) (2024) - A short introduction to building compilers on the MLIR infrastructure.
-- [Exotic Programming Ideas](https://www.stephendiehl.com/posts/exotic_01/) (2021) - Exploring unusual programming language concepts.
-- [Quirky Nerd Humour](https://www.stephendiehl.com/tags/humor/) (2020) - Satirical articles about programming culture.
-- [Write You a Haskell](https://github.com/sdiehl/write-you-a-haskell) (2015) - Building a Haskell compiler from scratch.
-- [What I Wish I Knew When Learning Haskell](https://sdiehl.github.io/wiwinwlh/) (2009) - A comprehensive guide to Haskell.
-
 ## Tech
 
 Rust, Python, TypeScript, C++, CUDA, Haskell, OCaml, Lean
